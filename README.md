@@ -1,7 +1,7 @@
 
-# Plane Ticket Search App
+# Hiling.Id
 
-Tugas 3 PAM RA
+Tugas 3 PAM RA membuat aplikasi tiket dan jadwal penerbangan pesawat 
 
 
 # Screenshot
@@ -22,5 +22,5 @@ Tugas 3 PAM RA
 Clone project with use git clone
 
 ```bash
-   https://github.com/alghiffari10/PlaneTicketApp.git
+   https://github.com/AdliMustofa120140022/PAM.git
 ```
