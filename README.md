@@ -1,5 +1,5 @@
 
-# Hiling.Id
+# Hiling.id
 
 Tugas 3 PAM RA membuat aplikasi tiket dan jadwal penerbangan pesawat 
 
