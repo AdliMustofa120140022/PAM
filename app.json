@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "hiling-id",
-    "slug": "hiling-id",
+    "name": "Hiling.id",
+    "slug": "Hilingid",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -14,9 +14,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
@@ -24,16 +22,10 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      },
-      "package": "com.mhhadiiar.hilingid"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "aab76e4c-3cd9-48dd-812c-16bc878c9eaf"
-      }
     }
   }
 }
